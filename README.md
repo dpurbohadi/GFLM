@@ -1,2 +1,2 @@
 # GFLM
--Gamma Feedback Learning Model
+Gamma Feedback Learning Model
