@@ -11,4 +11,4 @@ Getting started:
 1. Install: npm install gflm
 2. Run: node examples/run-feedback-collector.js
 
-For full documentation, see docs/
+For full documentation, see docs
