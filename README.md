@@ -4,7 +4,7 @@
 
 The Gamma Feedback Learning Model (GFLM) describes a cyclic process that connects classroom learning, self-directed study, data collection, and evaluation through continuous feedback. It aims to enhance learner autonomy while maintaining instructor guidance and data-driven improvement.
 
-<img src="Documentation/gflm.png" alt="Ilustrasi Irigasi" width="600"/>
+<img src="Documentation/gflm model.jpg" alt="Ilustrasi Irigasi" width="600"/>
 
 **1. Classroom activity (Tutorial, face-to-face):**
 
